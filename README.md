@@ -1,2 +1,6 @@
 # hello-world
-first repository
+
+Hi Humans!
+
+Hey, welcome to git hub.
+Get ready for an adventure.
